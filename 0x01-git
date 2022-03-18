@@ -1,3 +1,7 @@
 
-
- bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js
+mkdir /bash, c, js
+mkdir c/c_is_fun.c
+mkdir js/main.js
+mkdir js/index.js
+mkdir bash/alx #!/bin/bash echo "ALX"
+mkdir bash/school #!/bin/bash  echo "School"
