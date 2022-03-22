@@ -1,0 +1,2 @@
+
+Create a file bash/school with these two lines inside: #!/bin/bash and echo "School"
