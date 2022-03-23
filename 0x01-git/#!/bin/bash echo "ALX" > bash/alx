@@ -1,1 +1,5 @@
 #!/bin/bash echo "ALX" > bash/alx 
+#!/bin/bash echo "School" > bash/school
+git add .
+git commit -m 'Starting to code today, so cool'
+git push.
