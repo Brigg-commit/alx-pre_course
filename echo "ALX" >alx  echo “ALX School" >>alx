@@ -1,0 +1,5 @@
+
+Update bash/alx by replacing 
+echo "ALX" >alx with
+echo “ALX School" >>alx
+
