@@ -1,0 +1,3 @@
+Create a file bash/school with this lines inside:
+#!/bin/bash echo "School" > bash/school
+
