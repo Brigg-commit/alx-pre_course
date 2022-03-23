@@ -1,1 +1,5 @@
 
+Update bash/alx by replacing 
+echo "ALX" with echo "ALX School" 
+Git update.
+Git commit-m "my personal work!"
