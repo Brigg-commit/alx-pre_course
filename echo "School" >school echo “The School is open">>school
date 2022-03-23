@@ -1,0 +1,3 @@
+Update bash/school by replacing 
+echo "School" >school with
+echo “The School is open">>school
