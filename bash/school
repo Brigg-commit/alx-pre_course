@@ -1,6 +1,0 @@
-
-Update bash/school by replacing 
-echo "School" with echo "The school is open!"
-Git update.
-Git commit-m "my personal work!"
-Git push.
