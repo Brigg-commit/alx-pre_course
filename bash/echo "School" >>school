@@ -1,7 +1,0 @@
-Create a file with a bash/school with this lines inside:
-#!/bin/bash and echo "School"
-Create a file with a bash/alx with this lines inside:
-#!/bin/bash and echo "ALX"
-Add to git.
-Commit -m "Starting to code today, so cool!"
-Push to the remote server.
